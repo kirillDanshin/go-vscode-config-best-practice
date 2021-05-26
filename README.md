@@ -6,7 +6,7 @@ Rules still needs to be documented, but this preset should speed up your initial
 
 ### Getting started. The quick way.
 1. Install [code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync). Reload the editor.
-2. add `"sync.gist": "e113f79b1110591c72d89eda2e92fe39"` in your vscode config.
+2. add `"sync.gist": "6aa3a2e1a598704e77fd52438f42a0fc"` in your vscode config.
 3. Press cmd+shift+P for Mac or ctrl+shift+P for Linux, select `Sync: download` (shift+alt+D also may work)
 4. Reload your editor.
 5. You're ready to Go ;)
